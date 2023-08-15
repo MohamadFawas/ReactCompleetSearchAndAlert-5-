@@ -1,0 +1,10 @@
+.list-group a:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+.list-group .selected {
+    background-color: red;
+    color: white;
+  }
